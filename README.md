@@ -134,11 +134,4 @@ EXEC sp_archive_processed_data @retention_months
 
 MIT License - see LICENSE file for details.
 
-## Support
 
-- Technical Issues: Create GitHub issue
-- Questions: data-eng@company.com
-- Emergency: On-call team
-
----
-**Version**: 1.0 | **Last Updated**: September 2025
